@@ -1,4 +1,4 @@
-Hola, mi nombre es Ivan Vidal 👋
+## Hola, mi nombre es Ivan Vidal 👋
 
 Soy un programador junior actualmente cursando una FP de grado superior especializada en Desarollo de Aplicaciones Multiplataforma(DAM).
 
